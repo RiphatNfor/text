@@ -1,14 +1,10 @@
-body{
-  background:  linear-gradient(45deg, #010758, #490d61);;
-}
+
 *{
   margin: 0;
   padding: 0;
   font-family: 'Poppins', sans-serif;
   box-sizing: border-box;
 }
-.container{
-  width: fit-content
 }
 .hero{
   width: 100%;
